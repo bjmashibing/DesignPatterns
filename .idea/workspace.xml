@@ -2,29 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/CatHeightComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/CatWeightComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/DogComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/strategy/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/mashibing/dp/cor/FilterChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/mashibing/dp/cor/FilterChain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/cor/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/cor/Main.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/Servlet_Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/singleton/Mgr08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/CatHeightComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/CatWeightComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Comparable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/DogComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mashibing/dp/strategy/Sorter.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,99 +49,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/CatWeightComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/CatHeightComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/DogComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="11" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Comparator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/AbastractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Food.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Sorter.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Comparable.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="46">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Moveable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicStick.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MushRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/ModernFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -153,7 +165,6 @@
         <option value="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/Main.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/ServletMain.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/dp/cor/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/Servlet_Main.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/singleton.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/singleton/singleton.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/singleton/Mgr02.java" />
@@ -168,18 +179,44 @@
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Comparable.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Cat.java" />
-        <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Comparator.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Sorter.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/DogComparator.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/CatWeightComparator.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/CatHeightComparator.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/strategy/Comparator.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/chainofresponsibility/servlet/Servlet_Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/Servlet_Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/AppleCreator.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/Apple.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/readme" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/Moveable.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/Plane.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/Broom.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/SimpleVehicleFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/VehicleFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Food.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/AbastractFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/AK47.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Bread.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Broom.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/MagicStick.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/MushRoom.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/ModernFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/MagicFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory/Vehicle.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="230" />
-    <option name="y" value="1" />
+    <option name="x" value="242" />
     <option name="width" value="1687" />
     <option name="height" value="1023" />
   </component>
@@ -192,6 +229,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,36 +246,32 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mashibing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mashibing" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mashibing/dp/abstractfactory" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mashibing.dp.factorymethod" />
+      <recent name="com.mashibing.dp.simplefactory" />
       <recent name="com.mashibing.strategy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mashibing.dp.abstractfactory" />
       <recent name="com.mashibing.strategy" />
       <recent name="com.mashibing.singleton" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\com\mashibing\dp\abstractfactory" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\com\mashibing\dp\cor\servlet" />
     </key>
   </component>
@@ -253,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.strategy.Main" />
       <module name="DesignPatterns" />
@@ -267,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mgr04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.singleton.Mgr04" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.factorymethod.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mashibing.singleton.*" />
+          <option name="PATTERN" value="com.mashibing.dp.factorymethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mgr07" />
         <item itemvalue="Application.Mgr06" />
         <item itemvalue="Application.Mgr05" />
-        <item itemvalue="Application.Mgr04" />
       </list>
     </recent_temporary>
   </component>
@@ -347,22 +381,29 @@
       <option name="project" value="LOCAL" />
       <updated>1556285498853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="设计模式之Singleton和Strategy">
+      <created>1557238216848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557238216848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="1" width="1687" height="1023" extended-state="0" />
+    <frame x="242" y="0" width="1687" height="1023" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.21696374" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.32882607" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3295838" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3177874" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3295838" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.34983128" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -377,10 +418,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法" />
+    <MESSAGE value="设计模式之Singleton和Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式之Singleton和Strategy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/cor/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
@@ -393,21 +435,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/singleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/cor/servlet/Servlet_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr02.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
@@ -420,7 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr03.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
@@ -430,14 +465,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr04.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
           <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr07.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
@@ -448,21 +483,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr08.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr08.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr06.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -473,10 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/singleton/Mgr05.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="713">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="e#651#652#0" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
@@ -484,70 +519,288 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Comparable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/DogComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="11" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/CatWeightComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/CatWeightComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/CatHeightComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/CatHeightComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/DogComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/strategy/Sorter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="22" selection-start-line="11" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/Servlet_Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/AppleCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/simplefactory/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Broom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/SimpleVehicleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/dp/factorymethod/VehicleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/AK47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Bread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Broom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicStick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MushRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/ModernFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/AbastractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Moveable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
