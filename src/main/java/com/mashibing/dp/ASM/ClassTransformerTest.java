@@ -22,7 +22,7 @@ public class ClassTransformerTest {
                 return new MethodVisitor(ASM4, mv) {
                     @Override
                     public void visitCode() {
-                        visitMethodInsn(INVOKESTATIC, "TimeProxy","before", "()V", false);
+                        visitMethodInsn(INVOKESTATIC, "com/mashibing/dp/ASM/TimeProxy","before", "()V", false);
                         super.visitCode();
                     }
                 };
@@ -31,6 +31,13 @@ public class ClassTransformerTest {
 
         cr.accept(cv, 0);
         byte[] b2 = cw.toByteArray();
+
+        MyClassLoader cl = new MyClassLoader();
+        //Class c = cl.loadClass("com.mashibing.dp.ASM.Tank");
+        cl.loadClass("com.mashibing.dp.ASM.TimeProxy");
+        Class c2 = cl.defineClass("com.mashibing.dp.ASM.Tank", b2);
+        c2.getConstructor().newInstance();
+
 
         String path = (String)System.getProperties().get("user.dir");
         File f = new File(path + "/com/mashibing/dp/ASM/");
