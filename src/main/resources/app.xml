@@ -9,19 +9,19 @@
 
     <!--
 
-    <bean id="d" class="com.mashibing.Driver"></bean>
-    <bean id="tank" class="com.mashibing.Tank">
+    <bean id="d" class="com.shenyy.Driver"></bean>
+    <bean id="tank" class="com.shenyy.Tank">
         <property name="driver" ref="d"></property>
     </bean>
 
     -->
 
-    <bean id="tank" class="com.mashibing.dp.spring.v1.Tank"/>
-    <bean id="timeProxy" class="com.mashibing.dp.spring.v1.TimeProxy"/>
+    <bean id="tank" class="com.shenyy.dp.spring.v1.Tank"/>
+    <bean id="timeProxy" class="com.shenyy.dp.spring.v1.TimeProxy"/>
 
     <aop:config>
         <aop:aspect id="time" ref="timeProxy">
-            <aop:pointcut id="onmove" expression="execution(void com.mashibing.dp.spring.v1.Tank.move())"/>
+            <aop:pointcut id="onmove" expression="execution(void com.shenyy.dp.spring.v1.Tank.move())"/>
             <aop:before method="before" pointcut-ref="onmove"/>
             <aop:after method="after" pointcut-ref="onmove"/>
         </aop:aspect>
