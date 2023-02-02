@@ -4,191 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="设计模式继续">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Gift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Gift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Gift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/GiftImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/ClassPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/ClassPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/ClassTransformerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/ClassTransformerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/ClassWriteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/ClassWriteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/ASM/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/ASM/TimeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v3/ArrayList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v3/ArrayList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v3/Collection_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v4/Collection_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v3/LinkedList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v3/LinkedList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v4/ArrayList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v4/ArrayList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v4/Collection_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v3/Collection_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v4/LinkedList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v4/LinkedList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v5/ArrayList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v5/ArrayList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v5/Collection_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v5/Collection_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v5/Iterator_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v5/Iterator_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v5/LinkedList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v5/LinkedList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v7/ArrayList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v7/ArrayList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v7/Collection_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v7/Collection_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v7/Iterator_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v7/Iterator_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v7/LinkedList_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v7/LinkedList_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Iterator/v7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Iterator/v7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/TemplateMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/TemplateMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/AK47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/AK47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/AbastractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/AbastractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Bread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Broom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Broom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/MagicFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MagicStick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/MagicStick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/ModernFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/ModernFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/MushRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/MushRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/abstractfactory/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/adapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v1/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v1/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/GG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v1/Gift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v1/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/GG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/Gift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WarmGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WildGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/GG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/Gift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/WarmFlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WarmFlower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/WarmGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/WildGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/GG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Gift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/GiftImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/WarmGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/WildGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/bridge/v4/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/builder/ComplexTerrainBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/ComplexTerrainBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/builder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/builder/Terrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/Terrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/builder/TerrainBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/TerrainBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cglib/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cglib/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/Content.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/CopyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/CopyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/DeleteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/DeleteCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/InsertCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/InsertCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/command/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/command/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/composite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/composite/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/Main.java.bak" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/Main.java.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v1/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v1/Servlet_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v2/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v2/Servlet_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v2/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v3/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v3/Servlet_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v3/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v4/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v4/Servlet_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/cor/servlet/v4/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v4/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/decorator/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Broom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/Broom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/Moveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/factorymethod/SimpleVehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/SimpleVehicleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/flyweight/BulletPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/BulletPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/flyweight/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/intepreter/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/intepreter/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/memento/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/memento/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v1/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v10/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v10/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v11/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v11/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v9/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/observer/v9/TestFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v9/TestFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/prototype/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/prototype/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/prototype/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/prototype/v4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v01/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v01/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v02/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v02/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v03/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v03/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v04/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v04/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v05/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v05/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v06/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v06/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v07/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v07/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v08/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v08/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v09/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v09/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/proxy/v10/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/proxy/v10/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/singleton/Mgr08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/Mgr08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v1/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v2/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v1/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v1/TimeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v2/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v1/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/spring/v2/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/spring/v2/TimeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/NewState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/NewState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/RunningState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/RunningState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/TerminatedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/TerminatedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/ThreadState_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/ThreadState_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/thread/Thread_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/thread/Thread_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v1/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v1/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v2/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v2/MM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v2/MMHappyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v2/MMHappyState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v2/MMNervousState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v2/MMNervousState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v2/MMSadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v2/MMSadState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/state/v2/MMState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/v2/MMState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/CatHeightComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/CatHeightComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/CatWeightComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/CatWeightComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Comparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Comparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/DogComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/DogComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/strategy/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/strategy/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/dp/visitor/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/visitor/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app_auto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app_auto.xml" afterDir="false" />
+    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="包名修改">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/introduction/什么是设计模式.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -391,19 +208,22 @@
       <recent name="com.mashibing.dp.simplefactory" />
       <recent name="com.mashibing.strategy" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.mashibing.dp.state.thread" />
-      <recent name="com.mashibing.dp.state.v2" />
-      <recent name="com.mashibing.dp.command" />
-      <recent name="com.mashibing.dp.Iterator.v3" />
-      <recent name="com.mashibing.dp.spring" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v4" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v3" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v2" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\cor\servlet\v4" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\cor\servlet\v3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\introduction" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mashibing.dp.state.thread" />
+      <recent name="com.mashibing.dp.state.v2" />
+      <recent name="com.mashibing.dp.command" />
+      <recent name="com.mashibing.dp.Iterator.v3" />
+      <recent name="com.mashibing.dp.spring" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -620,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558879448557</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="包名修改">
+      <created>1675315092795</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675315092795</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -666,7 +493,8 @@
     <MESSAGE value="设计模式之Singleton和Strategy" />
     <MESSAGE value="设计模式之Factory系列，FactoryMethod, AbstractFactory，以及spring bean工厂开头" />
     <MESSAGE value="设计模式继续" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式继续" />
+    <MESSAGE value="包名修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="包名修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
