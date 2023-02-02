@@ -1,4 +1,4 @@
-package com.shenyy.dp.factorymethod;
+package com.shenyy.dp.factorymethod.example01;
 
 public class Broom implements Moveable{
 

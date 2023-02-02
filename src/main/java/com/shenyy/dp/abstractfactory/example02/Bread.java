@@ -1,4 +1,4 @@
-package com.shenyy.dp.abstractfactory;
+package com.shenyy.dp.abstractfactory.example02;
 
 public class Bread extends Food{
     public void printName() {

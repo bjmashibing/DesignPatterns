@@ -1,4 +1,4 @@
-package com.shenyy.dp.factorymethod;
+package com.shenyy.dp.factorymethod.example01;
 
 public class Main {
     public static void main(String[] args) {
