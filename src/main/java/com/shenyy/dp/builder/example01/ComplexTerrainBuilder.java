@@ -1,4 +1,4 @@
-package com.shenyy.dp.builder;
+package com.shenyy.dp.builder.example01;
 
 public class ComplexTerrainBuilder implements TerrainBuilder {
     Terrain terrain = new Terrain();
