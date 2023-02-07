@@ -1,4 +1,4 @@
-package com.shenyy.dp.decorator;
+package com.shenyy.dp.decorator.example;
 
 import java.io.*;
 
