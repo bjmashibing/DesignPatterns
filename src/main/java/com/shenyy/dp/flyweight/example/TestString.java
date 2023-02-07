@@ -1,4 +1,4 @@
-package com.shenyy.dp.flyweight;
+package com.shenyy.dp.flyweight.example;
 
 public class TestString {
     public static void main(String[] args) {

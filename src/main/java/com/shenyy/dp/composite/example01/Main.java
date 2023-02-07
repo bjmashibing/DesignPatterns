@@ -1,4 +1,4 @@
-package com.shenyy.dp.composite;
+package com.shenyy.dp.composite.example01;
 
 import java.util.ArrayList;
 import java.util.List;

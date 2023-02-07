@@ -1,4 +1,4 @@
-package com.shenyy.dp.flyweight;
+package com.shenyy.dp.flyweight.example;
 
 import java.util.ArrayList;
 import java.util.List;
