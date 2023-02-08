@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="包名修改">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/introduction/什么是设计模式.md" afterDir="false" />
+    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="Proxy pattern demo">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <list id="56066ea5-f557-47d8-aadd-7037cf7d328c" name="IDE" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -18,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -193,12 +206,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/mashibing/dp/prototype/v4" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v2/Test.java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -209,21 +224,23 @@
       <recent name="com.mashibing.strategy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\flyweight" />
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\abstractfactory" />
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\introduction" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v4" />
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v3" />
-      <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v2" />
-      <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\cor\servlet\v4" />
-      <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\cor\servlet\v3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\bridge" />
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\decorator\example" />
       <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\introduction" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shenyy.dp.abstractfactory.exercise2" />
+      <recent name="com.shenyy.dp.facade.chatgpt" />
+      <recent name="com.shenyy.dp.prototype.chatgpt" />
       <recent name="com.mashibing.dp.state.thread" />
       <recent name="com.mashibing.dp.state.v2" />
-      <recent name="com.mashibing.dp.command" />
-      <recent name="com.mashibing.dp.Iterator.v3" />
-      <recent name="com.mashibing.dp.spring" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -231,13 +248,13 @@
       <command value="bytecode " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.abstractfactory.Main" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="BulletPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.flyweight.example.BulletPool" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.abstractfactory.*" />
+          <option name="PATTERN" value="com.shenyy.dp.flyweight.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.command.Main" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.proxy.example.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.command.*" />
+          <option name="PATTERN" value="com.shenyy.dp.proxy.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.abstractfactory.Main" />
+    <configuration name="CompositeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.composite.chatgpt.CompositeExample" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.abstractfactory.*" />
+          <option name="PATTERN" value="com.shenyy.dp.composite.chatgpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +288,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.spring.v1.Main" />
+    <configuration name="FactoryProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.abstractfactory.exercise2.FactoryProducer" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mashibing.dp.spring.v1.*" />
+          <option name="PATTERN" value="com.shenyy.dp.abstractfactory.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyweightExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.flyweight.chatgpt.FlyweightExample" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenyy.dp.flyweight.chatgpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,78 +327,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.prototype.v2.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mashibing.dp.prototype.v2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.prototype.v4.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mashibing.dp.prototype.v4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.prototype.v1.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.prototype.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.prototype.v2.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.prototype.v2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.prototype.v4.Test" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.prototype.v4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.FlyweightExample" />
+        <item itemvalue="Application.BulletPool" />
+        <item itemvalue="Application.CompositeExample" />
+        <item itemvalue="Application.FactoryProducer" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +344,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="" />
+      <changelist id="56066ea5-f557-47d8-aadd-7037cf7d328c" name="IDE" comment="" />
       <created>1556253030883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -447,7 +413,147 @@
       <option name="project" value="LOCAL" />
       <updated>1675315092795</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="学习笔记">
+      <created>1675315205540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675315205540</updated>
+    </task>
+    <task id="LOCAL-00011" summary="设计模式介绍">
+      <created>1675331248638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675331248638</updated>
+    </task>
+    <task id="LOCAL-00012" summary="学习例子">
+      <created>1675331271155</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675331271155</updated>
+    </task>
+    <task id="LOCAL-00013" summary="自己练习例子">
+      <created>1675331332929</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675331332929</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chatGPT抽象工厂模式例子">
+      <created>1675331361767</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675331361767</updated>
+    </task>
+    <task id="LOCAL-00015" summary="工厂模式示例">
+      <created>1675332518275</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675332518275</updated>
+    </task>
+    <task id="LOCAL-00016" summary="工厂模式示例">
+      <created>1675332581711</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675332581711</updated>
+    </task>
+    <task id="LOCAL-00017" summary="prototype pattern demo">
+      <created>1675673048421</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673048421</updated>
+    </task>
+    <task id="LOCAL-00018" summary="singleton pattern demo">
+      <created>1675673063266</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673063266</updated>
+    </task>
+    <task id="LOCAL-00019" summary="builder pattern demo">
+      <created>1675673079770</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673079770</updated>
+    </task>
+    <task id="LOCAL-00020" summary="adapter pattern demo">
+      <created>1675673094895</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673094895</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Facade pattern demo">
+      <created>1675677620122</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675677620122</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Decorator pattern demo">
+      <created>1675680031707</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675680031707</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Decorator pattern demo">
+      <created>1675764056533</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675764056533</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Bridge pattern demo">
+      <created>1675764079323</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675764079323</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Empty file added">
+      <created>1675764320561</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675764320561</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Abstract Factory exercise replace">
+      <created>1675823920748</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675823920748</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Composite pattern demo">
+      <created>1675827430808</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675827430808</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Flyweight pattern demo">
+      <created>1675837020308</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675837020308</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Proxy pattern demo">
+      <created>1675844539009</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675844539009</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,12 +595,32 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法" />
     <MESSAGE value="设计模式之Singleton和Strategy" />
     <MESSAGE value="设计模式之Factory系列，FactoryMethod, AbstractFactory，以及spring bean工厂开头" />
     <MESSAGE value="设计模式继续" />
     <MESSAGE value="包名修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="包名修改" />
+    <MESSAGE value="学习笔记" />
+    <MESSAGE value="设计模式介绍" />
+    <MESSAGE value="学习例子" />
+    <MESSAGE value="自己练习例子" />
+    <MESSAGE value="chatGPT例子" />
+    <MESSAGE value="chatGPT抽象工厂模式例子" />
+    <MESSAGE value="工厂模式示例" />
+    <MESSAGE value="prototype pattern demo" />
+    <MESSAGE value="singleton pattern demo" />
+    <MESSAGE value="builder pattern demo" />
+    <MESSAGE value="adapter pattern demo" />
+    <MESSAGE value="Facade pattern demo" />
+    <MESSAGE value="Decorator pattern demo" />
+    <MESSAGE value="Bridge pattern demo" />
+    <MESSAGE value="Empty file added" />
+    <MESSAGE value="Abstract Factory exercise replace" />
+    <MESSAGE value="Composite pattern demo" />
+    <MESSAGE value="Flyweight pattern demo" />
+    <MESSAGE value="Proxy pattern demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proxy pattern demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -513,6 +639,116 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java</url>
           <line>319</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/example01/factory/Factory.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/example01/ExampleMain.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/example01/ExampleMain.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/exercise/ListFactory.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/example01/ExampleMain.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/builder/chatGPT/BuilderExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/chatgpt/PrototypeExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/chatgpt/PrototypeExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v1/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v2/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/singleton/chatgpt/SingletonExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/exercise/DecoratorExample.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/chatgpt/BridgeExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/composite/chatgpt/CompositeExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/composite/chatgpt/Composite.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/BulletPool.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/BulletPool.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/chatgpt/FlyweightExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
