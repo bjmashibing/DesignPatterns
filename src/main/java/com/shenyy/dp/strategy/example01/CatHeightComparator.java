@@ -1,4 +1,4 @@
-package com.shenyy.dp.strategy;
+package com.shenyy.dp.strategy.example01;
 
 public class CatHeightComparator implements Comparator<Cat> {
     @Override

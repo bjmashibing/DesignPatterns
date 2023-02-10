@@ -1,4 +1,4 @@
-package com.shenyy.dp.strategy;
+package com.shenyy.dp.strategy.example01;
 
 import java.util.Arrays;
 

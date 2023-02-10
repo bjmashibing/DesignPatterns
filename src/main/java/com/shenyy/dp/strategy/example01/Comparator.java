@@ -1,4 +1,4 @@
-package com.shenyy.dp.strategy;
+package com.shenyy.dp.strategy.example01;
 
 @FunctionalInterface
 public interface Comparator<T> {
