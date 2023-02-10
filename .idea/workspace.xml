@@ -4,15 +4,108 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="Proxy pattern demo">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="Chain of Responsibility pattern demo">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shenyy/dp/proxy/example/RealInternetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/AbstractFactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/AbstractFactoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatGPT/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/abstractfactory/chatgpt/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/adapter/example01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v1/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v1/GG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v1/Gift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v1/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v1/MM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/GG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/Gift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/MM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/WarmGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/WildGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v2/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/GG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/Gift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/MM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WarmFlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/WarmFlower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/WarmGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/WildGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v3/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/GG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/Gift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/GiftImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/GiftImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/MM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/MM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/WarmGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/WarmGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/WildGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/WildGift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/v4/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/bridge/example01/v4/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/Main.java.bak" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/main/Main.java.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example/EmailLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/EmailLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example/StderrLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/StderrLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example/StdoutLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/StdoutLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example/corExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/corExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v1/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v1/Servlet_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v2/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v2/Servlet_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v2/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v3/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v3/Servlet_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v3/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v4/Servlet_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v4/Servlet_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/servlet/v4/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/example01/servlet/v4/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/example01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/example/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/decorator/example01/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/facade/chatgpt/Description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/facade/Description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/Dessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/Dessert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/DessertFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/DessertFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/FactoryMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/FactoryMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/IceCream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/Pie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/Pie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatGPT/工厂方法模式示例.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/factorymethod/chatgpt/工厂方法模式示例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/BulletPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example01/BulletPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example01/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v1/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v10/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v10/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v11/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v11/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/v9/TestFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/example01/v9/TestFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/chatgpt/Description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/Description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/visitor/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shenyy/dp/visitor/example01/Computer.java" afterDir="false" />
     </list>
-    <list id="56066ea5-f557-47d8-aadd-7037cf7d328c" name="IDE" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list id="56066ea5-f557-47d8-aadd-7037cf7d328c" name="IDE" comment="IDE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +124,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -208,8 +302,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -231,9 +327,16 @@
       <recent name="C:\Users\mac\IdeaProjects\DesignPatterns\src\main\java\com\mashibing\dp\prototype\v3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\state\assets" />
       <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\bridge" />
       <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\dp\decorator\example" />
       <recent name="D:\GitHub_Repository\DesignPatterns\src\main\java\com\shenyy\introduction" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shenyy.dp.proxy.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.shenyy.dp.abstractfactory.exercise2" />
@@ -248,20 +351,7 @@
       <command value="bytecode " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="BulletPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.flyweight.example.BulletPool" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.flyweight.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.corExample">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.proxy.example.Client" />
       <module name="DesignPatterns" />
@@ -275,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompositeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.composite.chatgpt.CompositeExample" />
+    <configuration name="ObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.observer.chatgpt.ObserverExample" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.composite.chatgpt.*" />
+          <option name="PATTERN" value="com.shenyy.dp.observer.chatgpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.abstractfactory.exercise2.FactoryProducer" />
+    <configuration name="StateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.state.example.StateExample" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.abstractfactory.exercise2.*" />
+          <option name="PATTERN" value="com.shenyy.dp.state.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +391,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyweightExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.flyweight.chatgpt.FlyweightExample" />
+    <configuration name="corExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.cor.chatgpt.corExample" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shenyy.dp.flyweight.chatgpt.*" />
+          <option name="PATTERN" value="com.shenyy.dp.cor.chatgpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,26 +404,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.dp.factorymethod.Main" />
+    <configuration name="RealInternetTest.connectTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mashibing.dp.factorymethod.*" />
+          <option name="PATTERN" value="com.shenyy.dp.proxy.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.shenyy.dp.proxy.example" />
+      <option name="MAIN_CLASS_NAME" value="com.shenyy.dp.proxy.example.RealInternetTest" />
+      <option name="METHOD_NAME" value="connectTo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.corExample" />
+        <item itemvalue="Application.StateExample" />
+        <item itemvalue="Application.ObserverExample" />
+        <item itemvalue="JUnit.RealInternetTest.connectTo" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.FlyweightExample" />
-        <item itemvalue="Application.BulletPool" />
-        <item itemvalue="Application.CompositeExample" />
-        <item itemvalue="Application.FactoryProducer" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +646,49 @@
       <option name="project" value="LOCAL" />
       <updated>1675844539009</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Change &quot;groupId&quot; to com.shenyy; change java8 to java11">
+      <created>1675845551863</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675845551863</updated>
+    </task>
+    <task id="LOCAL-00031" summary="IDE">
+      <created>1675845657683</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675845657683</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Introduce the Test module and add junit maven dependency">
+      <created>1675846275683</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675846275683</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Observer pattern demo">
+      <created>1675849253610</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675849253610</updated>
+    </task>
+    <task id="LOCAL-00034" summary="State pattern demo">
+      <created>1675934063080</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675934063080</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Chain of Responsibility pattern demo">
+      <created>1675941530777</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1675941530777</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,11 +731,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法" />
-    <MESSAGE value="设计模式之Singleton和Strategy" />
-    <MESSAGE value="设计模式之Factory系列，FactoryMethod, AbstractFactory，以及spring bean工厂开头" />
-    <MESSAGE value="设计模式继续" />
-    <MESSAGE value="包名修改" />
     <MESSAGE value="学习笔记" />
     <MESSAGE value="设计模式介绍" />
     <MESSAGE value="学习例子" />
@@ -620,7 +750,13 @@
     <MESSAGE value="Composite pattern demo" />
     <MESSAGE value="Flyweight pattern demo" />
     <MESSAGE value="Proxy pattern demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proxy pattern demo" />
+    <MESSAGE value="Change &quot;groupId&quot; to com.shenyy; change java8 to java11" />
+    <MESSAGE value="IDE" />
+    <MESSAGE value="Introduce the Test module and add junit maven dependency" />
+    <MESSAGE value="Observer pattern demo" />
+    <MESSAGE value="State pattern demo" />
+    <MESSAGE value="Chain of Responsibility pattern demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chain of Responsibility pattern demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,32 +817,32 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v1/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v1/Test.java</url>
           <line>10</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v2/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v2/Test.java</url>
           <line>9</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v3/Test.java</url>
           <line>17</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v3/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v3/Test.java</url>
           <line>14</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v4/Test.java</url>
           <line>12</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/v4/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/prototype/example01/v4/Test.java</url>
           <line>11</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -736,12 +872,12 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/BulletPool.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example01/BulletPool.java</url>
           <line>37</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example/BulletPool.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/example01/BulletPool.java</url>
           <line>35</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
@@ -749,6 +885,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/flyweight/chatgpt/FlyweightExample.java</url>
           <line>12</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/observer/chatgpt/ObserverExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/state/example/StateExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shenyy/dp/cor/chatgpt/corExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
