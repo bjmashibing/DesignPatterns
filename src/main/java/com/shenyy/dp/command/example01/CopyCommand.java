@@ -1,4 +1,4 @@
-package com.shenyy.dp.command;
+package com.shenyy.dp.command.example01;
 
 public class CopyCommand extends Command {
     Content c;

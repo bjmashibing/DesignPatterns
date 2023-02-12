@@ -1,4 +1,4 @@
-package com.shenyy.dp.command;
+package com.shenyy.dp.command.example01;
 
 import java.util.ArrayList;
 import java.util.List;

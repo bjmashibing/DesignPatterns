@@ -1,4 +1,4 @@
-package com.shenyy.dp.command;
+package com.shenyy.dp.command.example01;
 
 public class InsertCommand extends Command {
     Content c;
