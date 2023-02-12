@@ -1,4 +1,4 @@
-package com.shenyy.dp.visitor.example;
+package com.shenyy.dp.visitor.chatgpt;
 
 public class ConcreteVisitor implements Visitor{
     @Override

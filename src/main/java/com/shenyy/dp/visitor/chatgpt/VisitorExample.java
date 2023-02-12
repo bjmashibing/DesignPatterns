@@ -1,4 +1,4 @@
-package com.shenyy.dp.visitor.example;
+package com.shenyy.dp.visitor.chatgpt;
 
 import java.util.ArrayList;
 import java.util.List;

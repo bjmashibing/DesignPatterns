@@ -1,4 +1,4 @@
-package com.shenyy.dp.visitor.example;
+package com.shenyy.dp.visitor.chatgpt;
 
 public interface Visitor {
     void visit(ConcreteElementA concreteElementA);
