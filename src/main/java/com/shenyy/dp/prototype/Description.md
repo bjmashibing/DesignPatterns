@@ -1,0 +1,3 @@
+##Prototype
+
+Prototype pattern is a creational design pattern in software development that is used to instantiate a new object by copying all of the properties of an existing object, creating a distinct object with the same properties. This approach can be faster than creating a new object from scratch and can also be used to implement a deep copy, meaning all the objects referenced within the new object are also copied.

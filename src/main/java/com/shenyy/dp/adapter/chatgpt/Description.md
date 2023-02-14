@@ -1,0 +1,5 @@
+##Description
+
+Adapter pattern is a structural design pattern in software development that allows two incompatible classes to work together by converting the interface of one class into an interface that the other class can understand. The adapter class acts as a bridge between two classes by converting the incoming request from the client into a format that the adapted class can understand, and vice versa.
+
+In this example, the Adaptee class has a specific request method that the client wants to use. The Target interface defines the request method that the client needs. The Adapter class implements the Target interface and has a reference to an instance of the Adaptee class. The Adapter class implements the request method by calling the specificRequest method of the Adaptee class, making it possible for the client to use the Adaptee class through the Target interface.
